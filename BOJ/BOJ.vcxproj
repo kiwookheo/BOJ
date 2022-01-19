@@ -140,6 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1926.cpp" />
+    <ClCompile Include="BFS_2178.cpp" />
+    <ClCompile Include="BFS_4179.cpp" />
+    <ClCompile Include="BFS_7576.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

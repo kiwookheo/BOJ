@@ -18,5 +18,14 @@
     <ClCompile Include="1926.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BFS_2178.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS_7576.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS_4179.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

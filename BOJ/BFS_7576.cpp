@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+/*#include <bits/stdc++.h>
 using namespace std;
 
 #define X first
@@ -12,7 +12,7 @@ int dy[4] = { 1,0,-1,0 };
  dist배열에는 토마토가 없다면 0, 익지 않은 토마토는 -1이 기본값이다. 
  기준이 되는 토마토로부터 거리를 구하는 것이나 마찬가지이다. 각각 dist배열에 거리를 추가해주고, 마지막에 검사를 해서
  익지 않은 토마토가 있다면 -1을 출력, 모두 익었다면 가장 큰 dist값을 출력하면 끝
-*/
+
 int main() {
     ios::sync_with_stdio(0);
     cin.tie(0);
@@ -71,4 +71,4 @@ int main() {
         }
     }
     cout << ans;
-}
+}*/
