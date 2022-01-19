@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+/*#include <bits/stdc++.h>
 using namespace std;
 
 #define X first
@@ -10,7 +10,7 @@ int dy[4] = { 1,0,-1,0 };
  불의 시간이 저장된 dist가 있겠지?? 그걸 가지고 지훈이 BFS와 비교를 하는거야 만약 지훈이 BFS를 돌렸는데 
  #(벽)을 만나거나 불이 이미 번졌다면(불의 DIST가 더 작다면) 그곳으로는 못가겠지 그렇게 진행을 하다가 만약 범위를 벗어나게 되면
  (탈출을 성공한다면) 탈출한 dist를 출력하면 되고 아니면 IMPOSSIBLE을 출력하면 되겠지
-*/
+
 int main() {
     ios::sync_with_stdio(0);
     cin.tie(0);
@@ -94,4 +94,4 @@ int main() {
     }
 
     cout << "IMPOSSIBLE";
-}
+}*/
