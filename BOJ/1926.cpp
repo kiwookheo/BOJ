@@ -65,8 +65,7 @@ int main() {
                     
                 }
                 count++;
-                if (maxWidth < nowWidth)
-                    maxWidth = nowWidth;
+                maxWidth = max(maxWidth,nowWidth);
                     
             }
         }
