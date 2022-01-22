@@ -144,6 +144,7 @@
     <ClCompile Include="BFS_2178.cpp" />
     <ClCompile Include="BFS_4179.cpp" />
     <ClCompile Include="BFS_7576.cpp" />
+    <ClCompile Include="Recursive_1074.cpp" />
     <ClCompile Include="Recursive_11729.cpp" />
     <ClCompile Include="Recursive_1629.cpp" />
   </ItemGroup>
