@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1926.cpp" />
+    <ClCompile Include="BackTracking_1182.cpp" />
     <ClCompile Include="BackTracking_15649.cpp" />
     <ClCompile Include="BackTracking_9663.cpp" />
     <ClCompile Include="BFS_1697.cpp" />
