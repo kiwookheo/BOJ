@@ -151,6 +151,7 @@
     <ClCompile Include="Recursive_11729.cpp" />
     <ClCompile Include="Recursive_1629.cpp" />
     <ClCompile Include="recursive_17478.cpp" />
+    <ClCompile Include="Simul_15683.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
