@@ -153,6 +153,7 @@
     <ClCompile Include="recursive_17478.cpp" />
     <ClCompile Include="Simul_12100.cpp" />
     <ClCompile Include="Simul_15683.cpp" />
+    <ClCompile Include="Simul_15686.cpp" />
     <ClCompile Include="Simul_18808.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
