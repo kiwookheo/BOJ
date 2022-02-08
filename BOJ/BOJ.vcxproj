@@ -150,6 +150,7 @@
     <ClCompile Include="DP_1149.cpp" />
     <ClCompile Include="DP_11659.cpp" />
     <ClCompile Include="DP_11726.cpp" />
+    <ClCompile Include="DP_12852.cpp" />
     <ClCompile Include="DP_2579.cpp" />
     <ClCompile Include="DP_9095.cpp" />
     <ClCompile Include="Recursive_1074.cpp" />
