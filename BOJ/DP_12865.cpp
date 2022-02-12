@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	int dp[101][1001] = { 0 };
+	int dp[101][100001] = { 0 };
 	int n, k;
 	cin >> n >> k;
 	int w[101] = { 0 };
